@@ -2,12 +2,12 @@
 REST web-Servcice Project Build form the scracth
 -----------------------------------------------------------------------
 
-Programming Language Used : Python Programming
-Framework :  Django Framework
-REST  : Django OPEN REST FRAMEWORK
-DATABASE : PostgreSQL
-Application Hosting : HEROKU cloud platform
-Database Hosting : Clever-Cloud paltform
+    Programming Language Used : Python Programming
+    Framework :  Django Framework
+    REST  : Django OPEN REST FRAMEWORK
+    DATABASE : PostgreSQL
+    Application Hosting : HEROKU cloud platform
+    Database Hosting : Clever-Cloud paltform
 ------------------------------------------------------------------------
 
 STEP : 1
@@ -40,7 +40,7 @@ STEP : 4
  - Django Application Hosted on HEROKU  as instructed in Problem Statement.
 
 
- Link : https://bank-dir.herokuapp.com/api/
+ Link : https://bank-directory.herokuapp.com/api/
 ------------------------------------------------------------------------------
 
 STEP : 5
