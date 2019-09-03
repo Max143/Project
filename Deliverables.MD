@@ -1,6 +1,6 @@
 HOSTING URL :  
 
-https://bank-dir.herokuapp.com/api/
+https://bank-directory.herokuapp.com/api/
 
 -----------------------------------------------------------------------------------------------
 Github repo link to your solution :
