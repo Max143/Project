@@ -2,7 +2,7 @@ CURL COMMANDS To CALL API's & FETCH DATA FORM THE SERVER :
 -----------------------------------------------------------
 
 
-curl -i  https://bank-dir.herokuapp.com/api/
+curl -i  https://bank-directory.herokuapp.com/api/
 
 RESULT : 
 
@@ -12,12 +12,12 @@ Content-Type: application/json
 Vary: Accept
 
 {
-    "branches/autocomplete": "https://bank-dir.herokuapp.com/api/branches/",
+    "branches/autocomplete": "https://bank-directory.herokuapp.com/api/branches/",
     "branches": "https://bank-dir.herokuapp.com/api/branches/"
 }
 ---------------------------------------------------------
 
-curl -i https://bank-dir.herokuapp.com/api/branches/
+curl -i https://bank-directory.herokuapp.com/api/branches/
 
 
 RESULT :
@@ -33,7 +33,7 @@ Vary: Accept
     "previous": null,
     "results": [
         {
-            "url": "https://bank-dir.herokuapp.com/api/branches/3/",
+            "url": "https://bank-directory.herokuapp.com/api/branches/3/",
             "ifsc": "ABHY0065001",
             "bank_id": 60,
             "branch": "RTGS-HO",
@@ -43,7 +43,7 @@ Vary: Accept
             "state": "MAHARASHTRA"
         },
         {
-            "url": "https://bank-dir.herokuapp.com/api/branches/4/",
+            "url": "https://bank-directory.herokuapp.com/api/branches/4/",
             "ifsc": "ABHY0065002",
             "bank_id": 60,
             "branch": "ABHYUDAYA NAGAR",
@@ -53,7 +53,7 @@ Vary: Accept
             "state": "MAHARASHTRA"
         },
         {
-            "url": "https://bank-dir.herokuapp.com/api/branches/5/",
+            "url": "https://bank-directory.herokuapp.com/api/branches/5/",
             "ifsc": "ABHY0065003",
             "bank_id": 60,
             "branch": "BAIL BAZAR",
@@ -63,7 +63,7 @@ Vary: Accept
             "state": "MAHARASHTRA"
         },
         {
-            "url": "https://bank-dir.herokuapp.com/api/branches/6/",
+            "url": "https://bank-directory.herokuapp.com/api/branches/6/",
             "ifsc": "ABHY0065004",
             "bank_id": 60,
             "branch": "BHANDUP",
