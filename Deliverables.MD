@@ -5,7 +5,7 @@ https://bank-directory.herokuapp.com/api/
 -----------------------------------------------------------------------------------------------
 Github repo link to your solution :
 
-https://github.com/Max143/Bank-directory-search-App
+https://github.com/Max143/project
 -----------------------------------------------------------------------------------------------
 Time taken to complete this exercise.
 
