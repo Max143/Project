@@ -22,6 +22,8 @@ Let me know if yow want to make any changes in the assignement.
 [ IMPORTANT ] Please include a curl script that makes a call to each of the above mentioned APIs in your repo while demonstrating the limit and offset parameters
 
 Open CURL_CMD.MD file to call the APIs
+
+https://github.com/Max143/Project/blob/master/CURL_CMD.MD
 -------------------------------------------------------------------------------------------------
 
 
