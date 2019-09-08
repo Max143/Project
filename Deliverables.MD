@@ -14,7 +14,7 @@ Project Submission Date: 31the of Aug 2019
 
 I have a job at NOOS Technology, which I will be leaving this job soon, to go for Internship. 
 I literally  had little time to work on assignment every day, in night only. So, took 4 days.
-I have completele this assignment on sunday. 
+I have completed this assignment on sunday. 
 
 Let me know if yow want to make any changes in the assignement.
 
